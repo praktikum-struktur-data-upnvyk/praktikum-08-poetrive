@@ -120,7 +120,6 @@ struct Node {
  * menghasilkan tree yang inorder-nya 20 30 40 50 60 70 80.
  */
 bool insert(Node*& root, int nilai);
-
 /**
  * Mencari sebuah nilai di dalam BST.
  *
